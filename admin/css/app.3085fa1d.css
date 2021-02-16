@@ -1,0 +1,1 @@
+*{margin:0;padding:0}.slide-fade-enter-active{transition:all 1s ease}.slide-fade-leave-active{transition:all .1s cubic-bezier(1,.5,.8,1)}.slide-fade-enter,.slide-fade-leave-to{transform:translateX(-20px);opacity:0}.userBox{float:right;font-size:.8rem;color:#666}.login-card{width:25rem;margin:7rem auto}
